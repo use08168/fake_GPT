@@ -2,9 +2,9 @@
 
 https://fasttext.cc/docs/en/crawl-vectors.html
 
-예시1)
-입력 : 안녕?</n>
-결과 : <img width="306" height="88" alt="image" src="https://github.com/user-attachments/assets/626318b8-9fd2-486b-b56e-4c84e9e5c0ba" />
+<h2>예시1)</h2>
+<p>입력 : 안녕?</p>
+<p>결과 : <img width="306" height="88" alt="image" src="https://github.com/user-attachments/assets/626318b8-9fd2-486b-b56e-4c84e9e5c0ba" /></p>
 
 예시2)
 입력 : 배고파
